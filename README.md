@@ -1,8 +1,4 @@
-# Certificates 
-
-Educational and competitive programming certificates.
-
-<b>Summer 2020</b>
+# Certificates (Summer 2020)
 
 Responsive Web Development Certification: https://www.freecodecamp.org/certification/fccb4a11df6-a1c0-46da-b395-bf03d845f660/responsive-web-design
 
